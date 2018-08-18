@@ -1,2 +1,2 @@
 # Flipkart-Scrapper
-Scrape details about products from the website
+Scrape details about products from the website.
